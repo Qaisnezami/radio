@@ -9,7 +9,7 @@ var musicPlayer = new Vue({
                 featuring : ["6LACK"],
                 title : "Love songs - Remix",
                 isLiked : false,
-                trackPath: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+                trackPath: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
                 trackCover: "https://hamza-k.github.io/music-player-app/songs/covers/cover1.jpg"
             },
             {
@@ -19,7 +19,7 @@ var musicPlayer = new Vue({
                 featuring : ["Tiffany Gouché"],
                 title : "Queen tings",
                 isLiked : false,
-                trackPath: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+                trackPath: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
                 trackCover: "https://hamza-k.github.io/music-player-app/songs/covers/cover2.jpg"
             },
             {
@@ -29,7 +29,7 @@ var musicPlayer = new Vue({
                 featuring : [],
                 title : "Material girl",
                 isLiked : false,
-                trackPath: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+                trackPath: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
                 trackCover: "https://hamza-k.github.io/music-player-app/songs/covers/cover3.png"
             },
             {
@@ -39,7 +39,7 @@ var musicPlayer = new Vue({
                 featuring :[ "Empress Of"],
                 title : "Suncity",
                 isLiked : false,
-                trackPath: "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+                trackPath: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
                 trackCover: "https://hamza-k.github.io/music-player-app/songs/covers/cover4.jpg"
             }
         ],
